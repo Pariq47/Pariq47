@@ -1,13 +1,6 @@
-- 👋 Hi, I’m Abdullah Muhammed Bamatraf
+* 👋 Hi, I’m **Abdullah Muhammed Bamatraf**
+* 🐍 I’m interested in **Python application development**
+* 🌱 I’m currently learning **Python** and building apps using **Flet**
+* 💞️ I’m looking to collaborate on **building real and useful applications**
+* 📫 How to reach me: **[balnar420@gmail.com](mailto:balnar420@gmail.com)** or **+967 778147759**
 
-- 👀 I’m interested in front-end
-
-- 🌱 I’m currently learning css&javascript
-
-- 💞️ I’m looking to collaborate on create a big project
-
-- 📫 How to reach me balnar420@gmail.com or +967 778147759
-
-<!---
-
-Pariq47/Pariq47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
